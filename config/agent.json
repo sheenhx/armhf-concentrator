@@ -1,0 +1,10 @@
+{
+	"data_dir": "/var/consul",
+	"datacenter": "TWIST_WIFI1",
+	"dns_config": {
+		"allow_stale": false,
+		"max_stale": "1s"
+	},
+	"client_addr": "0.0.0.0",
+	"leave_on_terminate": true
+}
